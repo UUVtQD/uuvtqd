@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I am Sergii 👋
 
-<!--
-**UUVtQD/uuvtqd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## I am a Husband, Father, DevOps, and Fisherman!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on different things
+- 🌱 I’m currently learning about AWS and related technologies
+- 👯 I’m looking to collaborate with other people
+- 📫 How to reach me: 
+  [![website](./img/linkedin-light.svg)](https://linkedin.com/in/sergii-kotenko-b092a02#gh-light-mode-only)
+  [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/sergii-kotenko-b092a02#gh-dark-mode-only)
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🥅 2022 Goals: Learn more about Chaos Engineering / k8s
+
