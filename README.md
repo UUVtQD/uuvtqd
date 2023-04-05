@@ -6,7 +6,6 @@
 - 🔭 I’m currently working on different things
 - 🌱 I’m currently learning about AWS and related technologies
 - 👯 I’m looking to collaborate with other people
-- 😄 Pronouns: 
 - 🥅 2022 Goals: Learn more about Chaos Engineering / k8s / AWS
 
 
